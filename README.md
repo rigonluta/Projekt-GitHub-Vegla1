@@ -1,1 +1,2 @@
 # Projekt-GitHub-Vegla1
+Ne kete repository do te perfundojm projektin ne lenden Vegla Softuerike. Do te kriojme nje kalkulator ne C++. Se pari i deklarojna variablat a dhe b dhe i japim vlere nga tastiera. Pastaj me ane te nje switch-i do te mund te perfundojm kalkulatorin . Ku do te krijojme 4 case ne kete switch, ku keta case do te permbajn operacione te thjeshta matematikore : + , - , * dhe / . Mbasi qe ti krijojme keto case do te shtypim vleren finale .
