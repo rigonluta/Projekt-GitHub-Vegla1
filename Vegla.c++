@@ -14,3 +14,26 @@ int main()
 
     cout << "Shkruaj numrin e dyte: ";
     cin >> num2;
+
+switch (op) {
+        case '+':
+            cout << "Rezultati: " << num1 + num2;
+            break;
+        case '-':
+            cout << "Rezultati: " << num1 - num2;
+            break;
+        case '*':
+            cout << "Rezultati: " << num1 * num2;
+            break;
+        case '/':
+            if (num2 != 0)
+                cout << "Rezultati: " << num1 / num2;
+            else
+                cout << "Gabim: Nuk lejohet pjesetimi me zero!";
+            break;
+        default:
+            cout << "Operator i pavlefshem!";
+    }
+
+    return 0;
+}
